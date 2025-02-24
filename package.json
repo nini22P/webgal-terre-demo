@@ -1,0 +1,18 @@
+{
+  "name": "webgal-terre-demo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "5.7.3",
+    "vite": "6.1.1"
+  },
+  "dependencies": {
+    "@webcontainer/api": "1.5.1"
+  }
+}
